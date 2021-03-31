@@ -1,0 +1,59 @@
+baseURL: "https://example.com"
+languageCode: "en-us"
+title: "Hugo-profile"
+
+googleanalytics: UA-XXXXX-X
+disqusShortname:
+Paginate: 3
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
+
+enableEmoji: true
+params:
+  favicon: "/images/fav.png"
+  description: "A high performance hugo theme for personal portfolio and blog."
+  copyright: "2021"
+
+  # Navbar Menus
+  customMenus:
+    - name: "Blog"
+      Url: "/blog"
+
+  # social
+  name: "Arao"
+  github: "#"
+  linkedin: "https://linkedin.com"
+  twitter: "https://twitter.com"
+  instagram: "https://instagram.com"
+  facebook: "https://facebook.com"
+
+  # About
+  profile_image: "/images/g.webp"
+  descripe_l1_person: "Hi, I'm Richard Arao. I am an author based in Nairobi, Kenya passionate web developer and ML engineer. Below are some of the book that I have written:"
+  descripe_l2_person: ""
+
+  useresume: true
+  customname: ""
+  resumelink: ""
+
+  # Things I do
+  usedothings: true
+  Things:
+    - logo: fab fa-python
+      title: Book1
+      description: Title/Description of Book1.
+
+    - logo: fas fa-robot
+      title: Book2
+      description: Title/Description of Book2.
+
+    - logo: fab fa-html5
+      title: Book3
+      description: Title/Description of Book3
+
+  #Description for seo. If you want to show description in your listing or single page, let's make it true
+  showdescription: false
+  tweet: true
+  recentposts: true
