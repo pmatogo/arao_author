@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo-profile"
+title: "Richard Arao"
 
 googleanalytics: UA-XXXXX-X
 disqusShortname:
@@ -22,16 +22,16 @@ params:
       Url: "/blog"
 
   # social
-  name: "Gurusabarish"
-  github: "https://github.com/gurusabarish"
-  linkedin: "https://linkedin.com/in/gurusabarish"
-  twitter: "https://twitter.com/gurusabarishh"
-  instagram: "https://instagram.com/gurusabarishh"
+  name: "Arao"
+  github: "#"
+  linkedin: "https://linkedin.com"
+  twitter: "https://twitter.com"
+  instagram: "https://instagram.com"
   facebook: "https://facebook.com"
 
   # About
-  profile_image: "/images/gurusabarish.webp"
-  descripe_l1_person: "Hi, I'm Gurusabarish, a passionate web developer and ML engineer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  profile_image: "/images/g.webp"
+  descripe_l1_person: "Hi, I'm Richard Arao. I am an author based in Nairobi, Kenya. Below are some of the book that I have written:"
   descripe_l2_person: ""
 
   useresume: true
@@ -42,16 +42,16 @@ params:
   usedothings: true
   Things:
     - logo: fab fa-python
-      title: Python
-      description: I build something beautiful using Python.
+      title: Book1
+      description: Title/Description of Book1.
 
     - logo: fas fa-robot
-      title: Machine learning
-      description: I train robust models for various tasks.
+      title: Book2
+      description: Title/Description of Book2.
 
     - logo: fab fa-html5
-      title: Things for web
-      description: I love to build things for web
+      title: Book3
+      description: Title/Description of Book3
 
   #Description for seo. If you want to show description in your listing or single page, let's make it true
   showdescription: false

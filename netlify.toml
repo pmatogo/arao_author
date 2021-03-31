@@ -1,5 +1,5 @@
 [build]
-publish = "netlifysite/public"
+publish = "exampleSite/public"
 command = "cd netlifysite && hugo --gc --minify --themesDir ../.."
 
 [context.production.environment]
