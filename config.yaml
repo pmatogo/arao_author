@@ -31,7 +31,7 @@ params:
 
   # About
   profile_image: "/images/g.webp"
-  descripe_l1_person: "Hi, I'm Richard Arao. I am an author based in Nairobi, Kenya passionate web developer and ML engineer. Below are some of the book that I have written:"
+  descripe_l1_person: "Hi, I'm Richard Arao. I am an author based in Nairobi, Kenya. Below are some of the book that I have written:"
   descripe_l2_person: ""
 
   useresume: true
